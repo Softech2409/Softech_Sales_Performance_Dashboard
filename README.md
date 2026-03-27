@@ -82,32 +82,32 @@ The solution is built on a **star schema model** optimized for performance and s
 ## Dashboard Screenshots
 
 ### Executive Overview
-![Executive Overview](images/executive-overview.png)
+![Executive Overview](Images/Executive-Overview.png)
 
 ---
 
 ### Sales Trends Analysis
-![Sales Trends](images/sales-trends-analysis.png)
+![Sales Trends](Images/Sales-trends-analysis.png)
 
 ---
 
 ### Product & Category Performance
-![Product Performance](images/product-category-performance.png)
+![Product Performance](Images/Product-Category-performance.png)
 
 ---
 
 ### Geographical Analysis
-![Geographical Analysis](images/geographical-analysis.png)
+![Geographical Analysis](Images/geographical-analysis.png)
 
 ---
 
 ### Customer Segmentation
-![Customer Segmentation](images/customer-segmentation.png)
+![Customer Segmentation](Images/customer-segmentation.png)
 
 ---
 
 ### Target Attainment
-![Target Attainment](images/target-attainment.png)
+![Target Attainment](Images/target-attainment.png)
 
 ## Dashboard Pages
 
