@@ -1,0 +1,21 @@
+RegionID,RegionName,Country,MacroRegion
+R01,North America - USA,USA,North America
+R02,North America - Canada,Canada,North America
+R03,Europe - UK,UK,Europe
+R04,Europe - Germany,Germany,Europe
+R05,Europe - France,France,Europe
+R06,Europe - Spain,Spain,Europe
+R07,Europe - Italy,Italy,Europe
+R08,Middle East - UAE,UAE,Middle East
+R09,Middle East - Saudi Arabia,Saudi Arabia,Middle East
+R10,Middle East - Turkey,Turkey,Middle East
+R11,Asia - India,India,Asia
+R12,Asia - Singapore,Singapore,Asia
+R13,Asia - Japan,Japan,Asia
+R14,Asia - South Korea,South Korea,Asia
+R15,Oceania - Australia,Australia,Oceania
+R16,South America - Brazil,Brazil,South America
+R17,North America - Mexico,Mexico,North America
+R18,Africa - South Africa,South Africa,Africa
+R19,Africa - Nigeria,Nigeria,Africa
+R20,Europe - Netherlands,Netherlands,Europe

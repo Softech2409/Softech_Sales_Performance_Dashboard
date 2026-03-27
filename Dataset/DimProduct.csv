@@ -1,0 +1,221 @@
+ProductID,ProductName,Brand,Category,SubCategory,UnitPrice,UnitCost
+P0001,Fabrikam Tent RPBM,Fabrikam,Sports,Outdoor,339.02,242.63
+P0002,Contoso Desktop U9Y7,Contoso,Electronics,Computers,488.39,298.74
+P0003,Woodgrove Chair H1L4,Woodgrove,Furniture,Office,368.85,261.85
+P0004,Contoso Desk H4T2,Contoso,Furniture,Office,104.33,68.07
+P0005,Tailspin Drawer EYEX,Tailspin,Office Supplies,Storage,27.11,16.28
+P0006,Litware Yoga Mat 25O5,Litware,Sports,Fitness,272.87,160.25
+P0007,Tailspin Phone D9UQ,Tailspin,Electronics,Mobile,1774.43,1089.42
+P0008,Northwind Soccer Ball KY36,Northwind,Sports,Team Sports,580.01,323.68
+P0009,Fabrikam Basketball QFCP,Fabrikam,Sports,Team Sports,599.69,379.72
+P0010,Contoso Folder DOX3,Contoso,Office Supplies,Binders,51.18,40.61
+P0011,Fabrikam Lamp MO5Y,Fabrikam,Furniture,Office,108.83,84.29
+P0012,Litware Pen Set YFQL,Litware,Office Supplies,Writing,38.63,25.13
+P0013,Fabrikam Chromebook B4KB,Fabrikam,Electronics,Computers,492.17,347.21
+P0014,Contoso Air Purifier YFBE,Contoso,Appliances,Cleaning,45.06,31.69
+P0015,Woodgrove Marker Pack EZC2,Woodgrove,Office Supplies,Writing,13.47,10.42
+P0016,Northwind Sleeping Bag Z77B,Northwind,Sports,Outdoor,265.49,162.96
+P0017,Northwind Folder 1M01,Northwind,Office Supplies,Binders,44.08,27.77
+P0018,Woodgrove Organizer LMAK,Woodgrove,Office Supplies,Storage,23.71,14.97
+P0019,AdventureWorks Vacuum QP41,AdventureWorks,Appliances,Cleaning,840.22,471.39
+P0020,Litware Organizer AQ0I,Litware,Office Supplies,Storage,41.99,26.66
+P0021,AdventureWorks Backpack 024P,AdventureWorks,Sports,Outdoor,504.12,396.76
+P0022,Tailspin Speaker NYPO,Tailspin,Electronics,Audio,477.31,380.05
+P0023,Litware Tent RIS5,Litware,Sports,Outdoor,318.43,184.56
+P0024,AdventureWorks Volleyball R99P,AdventureWorks,Sports,Team Sports,123.06,82.9
+P0025,Fabrikam Sleeping Bag M5NJ,Fabrikam,Sports,Outdoor,305.35,199.38
+P0026,Litware Cabinet 4K3D,Litware,Office Supplies,Storage,19.34,13.19
+P0027,Fabrikam Backpack PPGC,Fabrikam,Sports,Outdoor,105.93,74.13
+P0028,Contoso Table Q2QI,Contoso,Furniture,Home,552.68,307.0
+P0029,Tailspin Vacuum WP6P,Tailspin,Appliances,Cleaning,354.76,275.79
+P0030,Litware Speaker CG4M,Litware,Electronics,Audio,358.88,291.73
+P0031,Contoso Table VCSM,Contoso,Furniture,Home,859.11,624.07
+P0032,Woodgrove Chair PQGT,Woodgrove,Furniture,Office,79.08,57.6
+P0033,Woodgrove Organizer J8W1,Woodgrove,Furniture,Storage,503.26,348.54
+P0034,Litware Cabinet 1MZ2,Litware,Furniture,Storage,494.72,316.75
+P0035,Northwind Yoga Mat JCV1,Northwind,Sports,Fitness,156.03,92.09
+P0036,Fabrikam Mouse FLO6,Fabrikam,Electronics,Accessories,890.38,630.12
+P0037,AdventureWorks Vacuum MWI5,AdventureWorks,Appliances,Cleaning,133.14,74.84
+P0038,Contoso Chromebook N01Y,Contoso,Electronics,Computers,1341.09,1036.15
+P0039,Woodgrove Vacuum BMEK,Woodgrove,Appliances,Cleaning,297.58,197.49
+P0040,Tailspin Fan VHAI,Tailspin,Appliances,Climate,264.67,175.21
+P0041,AdventureWorks Desk 2NKT,AdventureWorks,Furniture,Office,310.06,197.92
+P0042,AdventureWorks Heater IBSP,AdventureWorks,Appliances,Climate,1086.73,882.13
+P0043,Tailspin Backpack WO57,Tailspin,Sports,Outdoor,490.38,292.87
+P0044,AdventureWorks Dumbbells 7HIT,AdventureWorks,Sports,Fitness,555.21,328.05
+P0045,Woodgrove Sofa NHR3,Woodgrove,Furniture,Home,621.98,369.89
+P0046,Litware Divider Set HTRO,Litware,Office Supplies,Binders,76.38,55.59
+P0047,Litware Fan 9OC6,Litware,Appliances,Climate,573.64,469.13
+P0048,Tailspin Dock LS5S,Tailspin,Electronics,Accessories,1686.06,1034.53
+P0049,Woodgrove Yoga Mat 73SF,Woodgrove,Sports,Fitness,306.44,243.47
+P0050,Northwind Drawer YJTX,Northwind,Furniture,Storage,333.26,208.36
+P0051,Contoso Tent U0HT,Contoso,Sports,Outdoor,375.67,272.34
+P0052,Northwind Workstation BXJO,Northwind,Electronics,Computers,1022.5,573.56
+P0053,Litware Keyboard AAQ8,Litware,Electronics,Accessories,303.47,207.52
+P0054,Contoso Tent 2CRP,Contoso,Sports,Outdoor,231.33,168.12
+P0055,AdventureWorks Backpack C1J1,AdventureWorks,Sports,Outdoor,185.71,129.03
+P0056,Fabrikam Basketball TLX9,Fabrikam,Sports,Team Sports,507.86,311.94
+P0057,AdventureWorks Kettlebell 6HVO,AdventureWorks,Sports,Fitness,244.17,188.91
+P0058,Fabrikam Lamp 85FL,Fabrikam,Furniture,Office,730.04,592.75
+P0059,Woodgrove Soundbar 0MEE,Woodgrove,Electronics,Audio,879.52,592.78
+P0060,Woodgrove Smartwatch QR3A,Woodgrove,Electronics,Mobile,1429.37,1031.57
+P0061,Woodgrove Planner J78S,Woodgrove,Office Supplies,Paper,17.57,13.41
+P0062,Tailspin Desktop IG9G,Tailspin,Electronics,Computers,1723.34,1060.2
+P0063,Fabrikam Basketball RY4U,Fabrikam,Sports,Team Sports,298.99,234.23
+P0064,AdventureWorks Workstation UPFH,AdventureWorks,Electronics,Computers,527.48,330.02
+P0065,Contoso Ultrabook BLQR,Contoso,Electronics,Computers,491.54,373.31
+P0066,Northwind Soundbar 80CO,Northwind,Electronics,Audio,552.84,320.79
+P0067,AdventureWorks Workstation VQPO,AdventureWorks,Electronics,Computers,731.6,459.35
+P0068,Tailspin Speaker GSHY,Tailspin,Electronics,Audio,1347.9,935.55
+P0069,Contoso Divider Set SN7X,Contoso,Office Supplies,Binders,119.74,82.83
+P0070,Woodgrove Table BAHI,Woodgrove,Furniture,Home,614.05,478.72
+P0071,AdventureWorks Pencil Set S9T6,AdventureWorks,Office Supplies,Writing,68.61,56.19
+P0072,Litware Basketball MZQJ,Litware,Sports,Team Sports,284.63,164.79
+P0073,AdventureWorks Folder XNZ9,AdventureWorks,Office Supplies,Binders,96.85,60.36
+P0074,AdventureWorks Air Purifier KO4G,AdventureWorks,Appliances,Cleaning,977.2,631.81
+P0075,Tailspin Lamp O422,Tailspin,Furniture,Office,289.23,196.48
+P0076,Woodgrove Smartwatch GVDK,Woodgrove,Electronics,Mobile,1781.24,1217.22
+P0077,Fabrikam Chair YV0G,Fabrikam,Furniture,Office,371.79,290.43
+P0078,AdventureWorks Yoga Mat Y35C,AdventureWorks,Sports,Fitness,491.69,372.73
+P0079,Contoso Marker Pack A3E3,Contoso,Office Supplies,Writing,110.37,61.27
+P0080,AdventureWorks Laptop A5PP,AdventureWorks,Electronics,Computers,1271.63,855.62
+P0081,Woodgrove Standing Desk JYPJ,Woodgrove,Furniture,Office,181.0,129.76
+P0082,Litware Yoga Mat AKVE,Litware,Sports,Fitness,342.65,231.05
+P0083,Fabrikam Binder XPE0,Fabrikam,Office Supplies,Binders,16.65,9.74
+P0084,Northwind Planner BHN0,Northwind,Office Supplies,Paper,91.85,60.37
+P0085,AdventureWorks Dumbbells 3LE5,AdventureWorks,Sports,Fitness,183.19,121.12
+P0086,Northwind Copy Paper E8SQ,Northwind,Office Supplies,Paper,81.65,49.05
+P0087,Fabrikam Planner WWAT,Fabrikam,Office Supplies,Paper,114.8,86.58
+P0088,Northwind Desktop 3SE5,Northwind,Electronics,Computers,395.44,251.81
+P0089,Northwind Phone J714,Northwind,Electronics,Mobile,724.3,513.55
+P0090,AdventureWorks Backpack 6EVK,AdventureWorks,Sports,Outdoor,374.77,258.31
+P0091,Litware Drawer IHP7,Litware,Office Supplies,Storage,49.33,38.82
+P0092,AdventureWorks Table MPTI,AdventureWorks,Furniture,Home,192.06,111.96
+P0093,Northwind Folder ZIVZ,Northwind,Office Supplies,Binders,5.6,3.25
+P0094,Tailspin Keyboard KT2H,Tailspin,Electronics,Accessories,771.79,487.07
+P0095,Woodgrove Treadmill YLN5,Woodgrove,Sports,Fitness,390.87,260.49
+P0096,AdventureWorks Mouse VF7V,AdventureWorks,Electronics,Accessories,1076.78,679.02
+P0097,AdventureWorks Volleyball VMMZ,AdventureWorks,Sports,Team Sports,102.52,77.51
+P0098,Fabrikam Divider Set E43D,Fabrikam,Office Supplies,Binders,56.22,34.64
+P0099,Litware Charger Z4OX,Litware,Electronics,Accessories,713.47,408.74
+P0100,Litware Chromebook LI9K,Litware,Electronics,Computers,563.43,372.84
+P0101,Fabrikam Basketball PSJY,Fabrikam,Sports,Team Sports,462.17,350.7
+P0102,Northwind Soundbar HRCH,Northwind,Electronics,Audio,603.43,470.47
+P0103,Fabrikam Chromebook SW5Z,Fabrikam,Electronics,Computers,959.82,717.95
+P0104,Litware Coffee Maker ZRWK,Litware,Appliances,Kitchen,1068.61,748.7
+P0105,Contoso Organizer G55F,Contoso,Furniture,Storage,506.47,377.59
+P0106,Fabrikam Shelf 9UM5,Fabrikam,Furniture,Home,561.75,412.31
+P0107,Northwind Tablet EIYQ,Northwind,Electronics,Mobile,215.05,131.89
+P0108,AdventureWorks Tent 2EHQ,AdventureWorks,Sports,Outdoor,116.57,81.45
+P0109,Fabrikam Charger N675,Fabrikam,Electronics,Accessories,254.15,192.66
+P0110,AdventureWorks Phone C3N0,AdventureWorks,Electronics,Mobile,1437.07,913.43
+P0111,Woodgrove Chair YV7D,Woodgrove,Furniture,Office,740.57,538.08
+P0112,Woodgrove Tablet 9OXF,Woodgrove,Electronics,Mobile,413.52,281.19
+P0113,Contoso Standing Desk JU5X,Contoso,Furniture,Office,217.21,148.97
+P0114,Contoso Speaker GM4H,Contoso,Electronics,Audio,643.53,369.59
+P0115,Contoso Keyboard RLZN,Contoso,Electronics,Accessories,1144.33,835.22
+P0116,Litware Cabinet T15W,Litware,Furniture,Storage,591.29,463.41
+P0117,Tailspin Backpack 2JJR,Tailspin,Sports,Outdoor,429.87,252.84
+P0118,AdventureWorks Keyboard XF2N,AdventureWorks,Electronics,Accessories,1620.06,1051.17
+P0119,Woodgrove Smartwatch 09WS,Woodgrove,Electronics,Mobile,606.52,341.56
+P0120,Tailspin Tent O4NB,Tailspin,Sports,Outdoor,400.69,223.59
+P0121,Fabrikam Dumbbells VW97,Fabrikam,Sports,Fitness,344.27,281.34
+P0122,AdventureWorks Folder T2BV,AdventureWorks,Office Supplies,Binders,36.41,24.88
+P0123,Tailspin Speaker 22XX,Tailspin,Electronics,Audio,1591.79,1028.28
+P0124,Contoso Standing Desk UIK0,Contoso,Furniture,Office,122.74,76.62
+P0125,Tailspin Speaker I59W,Tailspin,Electronics,Audio,1247.08,1015.88
+P0126,AdventureWorks Headphones 7IP4,AdventureWorks,Electronics,Audio,1364.1,843.16
+P0127,Contoso Table ICMY,Contoso,Furniture,Home,855.31,638.01
+P0128,Fabrikam Divider Set IFZF,Fabrikam,Office Supplies,Binders,65.85,41.26
+P0129,AdventureWorks Chair RUIH,AdventureWorks,Furniture,Office,303.99,172.98
+P0130,Northwind Pen Set MAAN,Northwind,Office Supplies,Writing,104.06,76.43
+P0131,Northwind Laptop LUBW,Northwind,Electronics,Computers,1345.01,740.35
+P0132,Tailspin Standing Desk UW3C,Tailspin,Furniture,Office,469.05,343.56
+P0133,Northwind Heater LY57,Northwind,Appliances,Climate,959.98,592.89
+P0134,AdventureWorks Basketball OOCQ,AdventureWorks,Sports,Team Sports,160.83,120.86
+P0135,Woodgrove Table H13K,Woodgrove,Furniture,Home,520.62,394.54
+P0136,Contoso Divider Set D61I,Contoso,Office Supplies,Binders,99.15,73.92
+P0137,Northwind Speaker L2FI,Northwind,Electronics,Audio,627.64,349.35
+P0138,Contoso Phone HLVW,Contoso,Electronics,Mobile,940.11,695.69
+P0139,Litware Air Purifier GH7J,Litware,Appliances,Cleaning,1100.15,899.2
+P0140,Fabrikam Headphones QAM4,Fabrikam,Electronics,Audio,1398.38,860.72
+P0141,Woodgrove Cabinet ZRMX,Woodgrove,Furniture,Storage,808.36,504.45
+P0142,Fabrikam Marker Pack LI7G,Fabrikam,Office Supplies,Writing,46.2,35.56
+P0143,Northwind Soundbar Q9MU,Northwind,Electronics,Audio,1835.29,1088.89
+P0144,Tailspin Tablet MHSX,Tailspin,Electronics,Mobile,357.81,260.61
+P0145,Woodgrove Desk 1WF7,Woodgrove,Furniture,Office,499.08,376.24
+P0146,Fabrikam Dumbbells XPX1,Fabrikam,Sports,Fitness,303.81,170.14
+P0147,Fabrikam Planner X4Z3,Fabrikam,Office Supplies,Paper,96.4,67.43
+P0148,Litware Table HIWT,Litware,Furniture,Home,848.71,598.75
+P0149,Northwind Headphones H801,Northwind,Electronics,Audio,1295.15,818.44
+P0150,Fabrikam Binder CK4S,Fabrikam,Office Supplies,Binders,72.69,57.18
+P0151,Woodgrove Dock RRV8,Woodgrove,Electronics,Accessories,827.89,491.72
+P0152,Contoso Notebook V7N4,Contoso,Office Supplies,Paper,59.43,38.53
+P0153,Litware Fan 5QWL,Litware,Appliances,Climate,650.45,506.79
+P0154,Litware Drawer LV2P,Litware,Furniture,Storage,58.62,35.26
+P0155,Woodgrove Tablet L0VS,Woodgrove,Electronics,Mobile,987.98,762.49
+P0156,Northwind Phone DA44,Northwind,Electronics,Mobile,1523.38,870.38
+P0157,Contoso Phone B2SL,Contoso,Electronics,Mobile,1298.15,885.46
+P0158,Northwind Drawer IHN6,Northwind,Furniture,Storage,741.82,423.09
+P0159,Northwind Volleyball GU58,Northwind,Sports,Team Sports,234.2,171.68
+P0160,Litware Soundbar EIHF,Litware,Electronics,Audio,993.98,758.87
+P0161,Tailspin Binder LTOP,Tailspin,Office Supplies,Binders,6.05,4.72
+P0162,Litware Vacuum F9VI,Litware,Appliances,Cleaning,501.0,408.29
+P0163,Woodgrove Chromebook 38FX,Woodgrove,Electronics,Computers,917.92,671.41
+P0164,Woodgrove Soundbar 3I6P,Woodgrove,Electronics,Audio,499.14,378.17
+P0165,Contoso Desk U1ET,Contoso,Furniture,Office,66.7,45.79
+P0166,Contoso Organizer TJCT,Contoso,Office Supplies,Storage,84.21,67.07
+P0167,Contoso Organizer T9VS,Contoso,Furniture,Storage,399.54,289.19
+P0168,Tailspin Vacuum UG0F,Tailspin,Appliances,Cleaning,512.83,404.4
+P0169,Fabrikam Sleeping Bag KPFH,Fabrikam,Sports,Outdoor,154.09,94.55
+P0170,Litware Humidifier KS9W,Litware,Appliances,Climate,634.13,433.82
+P0171,Contoso Tent MNJI,Contoso,Sports,Outdoor,268.76,200.78
+P0172,Litware Fan NKOM,Litware,Appliances,Climate,565.02,341.69
+P0173,Tailspin Tent Q7SV,Tailspin,Sports,Outdoor,355.91,216.06
+P0174,Contoso Kettlebell WIOR,Contoso,Sports,Fitness,13.28,10.81
+P0175,Contoso Microwave FDM6,Contoso,Appliances,Kitchen,1116.42,745.04
+P0176,Northwind Treadmill 4GOU,Northwind,Sports,Fitness,50.36,30.17
+P0177,Northwind Backpack PMB4,Northwind,Sports,Outdoor,286.98,183.52
+P0178,Northwind Shelf COS2,Northwind,Furniture,Home,208.0,136.72
+P0179,AdventureWorks Divider Set O073,AdventureWorks,Office Supplies,Binders,63.95,45.93
+P0180,Contoso Pen Set 3OA1,Contoso,Office Supplies,Writing,34.44,27.52
+P0181,Contoso Volleyball MQNE,Contoso,Sports,Team Sports,503.18,410.79
+P0182,Tailspin Shelf AUAY,Tailspin,Furniture,Home,379.79,275.71
+P0183,Litware Volleyball XV39,Litware,Sports,Team Sports,400.1,295.67
+P0184,Fabrikam Steam Mop IU3K,Fabrikam,Appliances,Cleaning,334.53,213.06
+P0185,Litware Sleeping Bag A5W0,Litware,Sports,Outdoor,21.03,16.43
+P0186,Northwind Soundbar HQ4F,Northwind,Electronics,Audio,748.34,455.59
+P0187,Northwind Coffee Maker KUSY,Northwind,Appliances,Kitchen,672.17,389.0
+P0188,Contoso Coffee Maker MGPW,Contoso,Appliances,Kitchen,572.32,465.17
+P0189,Northwind Sleeping Bag 1M7C,Northwind,Sports,Outdoor,560.32,438.91
+P0190,AdventureWorks Soccer Ball A7GV,AdventureWorks,Sports,Team Sports,438.15,276.9
+P0191,Tailspin Planner 18BO,Tailspin,Office Supplies,Paper,119.72,87.67
+P0192,Fabrikam Marker Pack ZWUL,Fabrikam,Office Supplies,Writing,37.38,25.27
+P0193,Fabrikam Headphones PJT2,Fabrikam,Electronics,Audio,1416.96,902.95
+P0194,AdventureWorks Basketball UBXP,AdventureWorks,Sports,Team Sports,335.72,210.64
+P0195,Contoso Phone H27S,Contoso,Electronics,Mobile,1096.04,643.08
+P0196,Fabrikam Coffee Maker GK7G,Fabrikam,Appliances,Kitchen,1213.81,847.62
+P0197,Tailspin Toaster HLRM,Tailspin,Appliances,Kitchen,767.89,514.93
+P0198,Litware Shelf 9SSB,Litware,Furniture,Home,835.61,575.14
+P0199,Tailspin Charger B4IM,Tailspin,Electronics,Accessories,1367.87,831.87
+P0200,Fabrikam Chromebook ZWBU,Fabrikam,Electronics,Computers,306.48,246.23
+P0201,Litware Basketball L07J,Litware,Sports,Team Sports,402.35,290.67
+P0202,AdventureWorks Binder L4C6,AdventureWorks,Office Supplies,Binders,57.81,45.84
+P0203,Woodgrove Workstation RV61,Woodgrove,Electronics,Computers,1655.08,959.12
+P0204,Fabrikam Vacuum BXFD,Fabrikam,Appliances,Cleaning,983.3,706.18
+P0205,Tailspin Chromebook RXHD,Tailspin,Electronics,Computers,269.97,210.4
+P0206,Contoso Soccer Ball MAPL,Contoso,Sports,Team Sports,87.9,56.2
+P0207,Tailspin Table VLQC,Tailspin,Furniture,Home,103.61,62.44
+P0208,Fabrikam Phone 99R7,Fabrikam,Electronics,Mobile,897.13,557.62
+P0209,Litware Tablet E5OW,Litware,Electronics,Mobile,216.11,134.79
+P0210,Contoso Folder L0SN,Contoso,Office Supplies,Binders,83.48,55.99
+P0211,Tailspin Desk 0IE5,Tailspin,Furniture,Office,527.52,336.56
+P0212,Contoso Microwave XZ4W,Contoso,Appliances,Kitchen,972.77,606.27
+P0213,Tailspin Standing Desk 47B0,Tailspin,Furniture,Office,273.81,198.54
+P0214,AdventureWorks Sofa 6BIG,AdventureWorks,Furniture,Home,499.85,282.07
+P0215,Litware Speaker AAS8,Litware,Electronics,Audio,283.04,181.68
+P0216,Tailspin Tablet QXTN,Tailspin,Electronics,Mobile,1523.69,1121.79
+P0217,Northwind Treadmill AIYM,Northwind,Sports,Fitness,107.62,64.3
+P0218,Contoso Phone E5LA,Contoso,Electronics,Mobile,256.34,156.28
+P0219,Tailspin Volleyball TQ6L,Tailspin,Sports,Team Sports,128.43,77.59
+P0220,AdventureWorks Standing Desk 0VHY,AdventureWorks,Furniture,Office,709.91,390.63
