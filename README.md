@@ -53,6 +53,61 @@ The dashboard was built to support:
 - Late-year performance improved, with the strongest monthly results in Q4
 
 ---
+## Data Model (Semantic Model Design)
+
+The solution is built on a **star schema model** optimized for performance and scalability.
+
+![Data Model](images/data-model.png)
+
+### Model Highlights:
+- Central **FactSales** table (transactional grain)
+- Dimension tables:
+  - DimCustomer
+  - DimProduct
+  - DimRegion
+  - Date (Calendar table)
+  - DimMonth
+- Target tables:
+  - TargetsByCategory
+  - TargetsOverall_Monthly
+
+### Design Approach:
+- One-to-many relationships (dimension → fact)
+- Single-direction filtering for performance
+- Separate target tables for flexible variance analysis
+- Time intelligence enabled via dedicated calendar table
+
+---
+
+## Dashboard Screenshots
+
+### Executive Overview
+![Executive Overview](images/executive-overview.png)
+
+---
+
+### Sales Trends Analysis
+![Sales Trends](images/sales-trends-analysis.png)
+
+---
+
+### Product & Category Performance
+![Product Performance](images/product-category-performance.png)
+
+---
+
+### Geographical Analysis
+![Geographical Analysis](images/geographical-analysis.png)
+
+---
+
+### Customer Segmentation
+![Customer Segmentation](images/customer-segmentation.png)
+
+---
+
+### Target Attainment
+![Target Attainment](images/target-attainment.png)
 
 ## Dashboard Pages
 
