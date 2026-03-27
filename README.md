@@ -57,7 +57,7 @@ The dashboard was built to support:
 
 The solution is built on a **star schema model** optimized for performance and scalability.
 
-![Data Model](Images/data-model.png)
+![Data Model](Images/data_model.png)
 
 ### Model Highlights:
 - Central **FactSales** table (transactional grain)
